@@ -1,0 +1,18 @@
+
+.screen{
+    composes: screen from "../../App.css";
+
+    height: 40px;
+    background: #bcbcff;
+    font-size: 38px;
+    font-weight: 700;
+    text-align: center;
+    padding: 30px 0;
+}
+.screen5{
+    color: #ee2222;
+}
+.error{
+    font-size: 20px;
+    background: rgb(250, 92, 92);
+}

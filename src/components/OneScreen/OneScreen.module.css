@@ -1,0 +1,10 @@
+.container  {
+    composes: cont from "../../App.css";
+    left: 50%;
+}
+.right{
+    left: 75%;
+}
+.buttons{
+    composes: btns from "../../App.css";
+}

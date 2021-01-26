@@ -1,0 +1,11 @@
+.input{
+    text-align: center;
+    height: 20px;
+}
+.text{
+    color: #bcbcff;
+    font-size: 20px;
+}
+.error{
+    background: rgb(255, 115, 115);
+}

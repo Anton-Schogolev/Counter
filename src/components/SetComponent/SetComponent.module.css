@@ -1,0 +1,10 @@
+.setContainer  {
+    composes: cont from "../../App.css";
+    left: 25%;
+}
+.center{
+    left: 50%;
+}
+.buttons{
+    composes: btns from "../../App.css";
+}

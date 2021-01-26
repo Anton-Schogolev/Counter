@@ -1,0 +1,7 @@
+.screen{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    composes: screen from "../../App.css";
+}

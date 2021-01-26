@@ -1,0 +1,35 @@
+body{
+    background: #062686;
+}
+.cont{
+    border: #bcbcff solid;
+    width: 330px;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #111;
+}
+.btns{
+    width: 300px;
+    border: #bcbcff solid;
+    margin: 0 auto;
+    padding: 10px 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.screen{
+    width: 300px;
+    height: 100px;
+    border: #bcbcff solid;
+    border-radius: 10px;
+    margin: 0 auto 10px;
+}
+.App > button{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
